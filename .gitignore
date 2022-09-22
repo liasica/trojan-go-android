@@ -8,9 +8,6 @@
 # Java class files
 *.class
 
-# android lib
-*.aar
-
 # Generated files
 bin/
 gen/
